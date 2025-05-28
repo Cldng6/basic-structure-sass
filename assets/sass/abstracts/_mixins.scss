@@ -1,6 +1,19 @@
-@mixin flex-center(){
-    display: flex;
-    justify-content: center;
-    align-items: center;
+// @mixin flex-center(){
+    // display: flex;
+    // justify-content: center;
+    // align-items: center;
     // margin-top: $margin;
-}
+// }
+
+// $item:
+//     '1. ',
+//     '2. ',
+//     '3. ';
+
+// @each $item in item-a, item-b, item-c {
+//     li.#{$item}{
+//         &:before{
+//             content: '1. ';
+//         }
+//     }
+// }

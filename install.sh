@@ -1,1 +1,1 @@
-npm install sass
+npm install sass  --save-dev

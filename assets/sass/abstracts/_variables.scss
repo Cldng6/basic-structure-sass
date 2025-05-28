@@ -1,0 +1,36 @@
+// Couleurs
+$color-primary: #1e90ff;
+$color-secondary: #ff7f50;
+$color-accent: #f39c12;
+$color-background: #f5f7fa;
+$color-surface: #ffffff;
+$color-border: #e0e0e0;
+$color-text-primary: #212121;
+$color-text-secondary: #757575;
+$color-error: #e74c3c;
+
+// Typographie
+$font-family-base: 'Inter', sans-serif;
+$font-size-base: 16px;
+$font-size-sm: 14px;
+$font-size-lg: 20px;
+$line-height-base: 1.5;
+$font-weight-regular: 400;
+$font-weight-bold: 700;
+
+// Espacement
+$spacing-xs: 4px;
+$spacing-sm: 8px;
+$spacing-md: 16px;
+$spacing-lg: 24px;
+$spacing-xl: 32px;
+
+// Dimensions
+$container-width: 1200px;
+$header-height: 64px;
+$border-radius: 6px;
+
+// Effets
+$box-shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.05);
+$box-shadow-md: 0 4px 6px rgba(0, 0, 0, 0.1);
+$transition-default: all 0.3s ease;

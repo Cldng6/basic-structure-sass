@@ -1,0 +1,9 @@
+header{
+    background-color: aqua;
+    @include flex-center();
+    .title{
+        color: $color-secondary;
+        font-size: 3em;
+        background-color: $color-primary;
+    }
+}
